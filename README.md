@@ -6,7 +6,7 @@ This [EPSRC](https://epsrc.ukri.org/)-funded research project will investigate h
 
 The CapableVMs project is co-hosted at [King's College London](https://www.kcl.ac.uk/) and [University of Glasgow](https://www.glasgow.ac.uk). For more information, please contact
 [Laurie Tratt](https://tratt.net/laurie/)
-or [Jeremy Singer](https://www.dcs.gla.ac.uk/~jsinger/).
+or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 
 
 ## Documentation
