@@ -1,6 +1,6 @@
 # CapableVMs
 
-This [EPSRC](https://epsrc.ukri.org/)-funded research project is part of the DSbD ecosystem. We are investigating how programming language virtual machines (VMs) can utilise hardware capabilities, such as those found in [CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/). The project runs from 2020 to 2023, as part of the [Digital Security by Design](https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/) initative.
+This [EPSRC](https://epsrc.ukri.org/)-funded research project is part of the DSbD ecosystem. We are investigating how programming language virtual machines (VMs) can utilise hardware capabilities, such as those found in [CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/). The project runs from 2020 to 2023, as part of the [Digital Security by Design](https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/) initiative.
 
 ## Partners
 
@@ -8,6 +8,17 @@ The CapableVMs project is co-hosted at [King's College London](https://www.kcl.a
 [Laurie Tratt](https://tratt.net/laurie/)
 or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 
+## Projects
+
+- CHERI examples and playground -- [repo](https://github.com/capablevms/cheri-examples)
+- Boehm-Demers-Weiser garbage collector port for purecap CHERI [WIP] -- [repo](https://github.com/capablevms/bdwgc)
+- Function splitter - explore compartmentalisation using CHERI sentries [on hold] -- [repo](https://github.com/capablevms/llvm-function-split)
+- ELF compartments - library for compartmentalising ELF binaries [WIP] -- [repo](https://github.com/capablevms/CHERI-ELF-comp)
+- Webkit port for purecap CHERI [WIP] -- [repo](https://github.com/capablevms/webkit)
+
+## Publications
+
+- Picking a CHERI Allocator: Security and Performance Considerations [[arXiv](https://arxiv.org/abs/2303.15130)]
 
 ## Documentation
 
