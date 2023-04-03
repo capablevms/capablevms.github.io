@@ -19,6 +19,7 @@ or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 ## Publications
 
 - Picking a CHERI Allocator: Security and Performance Considerations [[arXiv](https://arxiv.org/abs/2303.15130)]
+- Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware [[doi: 10.1145/3516807.3516823](https://doi.org/10.1145/3516807.3516823)]
 
 ## Documentation
 
