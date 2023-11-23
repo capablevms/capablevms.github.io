@@ -24,6 +24,7 @@ or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 ## Blog posts
 
 - [Two stories for "What is CHERI?"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
+- [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 
 ## Documentation
 
