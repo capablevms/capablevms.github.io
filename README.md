@@ -18,10 +18,10 @@ or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 
 ## Academic Publications
 
-- Picking a CHERI Allocator: Security and Performance Considerations (March, 2023), [[doi: 10.1145/3591195.3595278](https://doi.org/10.1145/3591195.3595278)] [[arXiv](https://arxiv.org/abs/2303.15130)]
-- Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware (February, 2022), [[doi: 10.1145/3516807.3516823](https://doi.org/10.1145/3516807.3516823)]
 - Morello MicroPython: A Python Interpreter for CHERI (October, 2023), [[doi: 10.1145/3617651.3622991](https://doi.org/10.1145/3617651.3622991)]
 - CHERI Performance Enhancement for a Bytecode Interpreter (October, 2023), [[doi: 10.1145/3623507.3623552](https://doi.org/10.1145/3623507.3623552)]
+- Picking a CHERI Allocator: Security and Performance Considerations (March, 2023), [[doi: 10.1145/3591195.3595278](https://doi.org/10.1145/3591195.3595278)] [[arXiv](https://arxiv.org/abs/2303.15130)]
+- Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware (February, 2022), [[doi: 10.1145/3516807.3516823](https://doi.org/10.1145/3516807.3516823)]
 
 ## Blog posts
 
