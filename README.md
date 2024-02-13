@@ -1,6 +1,6 @@
 # CapableVMs
 
-This [EPSRC](https://epsrc.ukri.org/)-funded research project is part of the DSbD ecosystem. We are investigating how programming language virtual machines (VMs) can utilise hardware capabilities, such as those found in [CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/). The project runs from 2020 to 2023, as part of the [Digital Security by Design](https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/) initiative.
+This [EPSRC](https://epsrc.ukri.org/)-funded research project is part of the DSbD ecosystem. We are investigating how programming language virtual machines (VMs) can utilise hardware capabilities, such as those found in [CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/). The project runs from 2020 to ~~2023~~ 2025, as part of the [Digital Security by Design](https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/) initiative.
 
 ## Partners
 
