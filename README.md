@@ -20,7 +20,7 @@ or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 ## Academic Publications
 
 - Secure Scripting with CHERIoT MicroPython  
-(March, 2024) [doi: 10.1145/3708493.3712694](https://doi.org/10.1145/3708493.3712694)]  
+(March, 2024) [[doi: 10.1145/3708493.3712694](https://doi.org/10.1145/3708493.3712694)]  
 *(Small-scale CHERI microcontrollers can now run Python scripts, using our capability-aware MicroPython bytecode interpreter)*
 - Morello MicroPython: A Python Interpreter for CHERI  
 (October, 2023) [[doi: 10.1145/3617651.3622991](https://doi.org/10.1145/3617651.3622991)]  
