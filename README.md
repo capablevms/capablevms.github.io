@@ -31,15 +31,16 @@ or [Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 - Capable VMs Project Overview (Poster Abstract)  
 (October, 2023) [[doi: 10.1145/3617651.3624308](https://doi.org/10.1145/3617651.3624308)]
 - Towards Secure MicroPython on Morello (WIP)  
-(June, 2023) [[doi: 10.1145/3589610.3596272](https://doi.org/10.1145/3589610.3596272)]
+(June, 2023) [[doi: 10.1145/3589610.3596272](https://doi.org/10.1145/3589610.3596272)]  
+*(Q: Can we run a Python interpreter on a capability platform? A: Yes!)*
 - Picking a CHERI Allocator: Security and Performance Considerations  
 (March, 2023) [[doi: 10.1145/3591195.3595278](https://doi.org/10.1145/3591195.3595278)] [[arXiv](https://arxiv.org/abs/2303.15130)]  
-*(CHERI isn't magic fairy dust - just because a memory allocator runs on CHERI doesn't necessarily mean it is secure...)*
+*(CHERI isn't magic fairy dust - just because a memory allocator runs on CHERI doesn't necessarily mean it's secure...)*
 - Boehm-Demers-Weiser Garbage Collection on Morello  
 (November, 2022) [[doi: 10.1145/3546918.3560808](https://doi.org/10.1145/3546918.3560808)]
 - Capability Boehm: Challenges and Opportunities for Garbage Collection with Capability Hardware  
 (February, 2022) [[doi: 10.1145/3516807.3516823](https://doi.org/10.1145/3516807.3516823)]  
-*(world's first automatic memory manager running on a CHERI platform, with acceptable performance overheads according to our modeling)*
+*(World's first automatic memory manager running on a CHERI platform, with acceptable performance overheads according to our modeling)*
 
 ## Blog posts
 
